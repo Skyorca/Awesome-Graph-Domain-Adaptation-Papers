@@ -60,12 +60,15 @@ This repository contains the paper list of **Graph Domain Adaptation (GDA) **. T
 | You Only Transfer What You Share: Intersection-Induced Graph Transfer Learning for Link Prediction |           Adaptation            | GITL                                                         | edge-level                                      | 2023          | TMLR                                                         |
 | Dynamic Transfer Learning across Graphs                      |           Adaptation            | DyTrans                                                      | node-level                                      | 2023          | Arxiv                                                        |
 | Cross-Domain Few-Shot Graph Classification with a Reinforced Task Coordinator |           Adaptation            | CDTC                                                         | graph-level                                     | 2023          | AAAI                                                         |
+| Tackling Negative Transfer on Graphs | Adaptation | SP | node-level | 2024 | Arxiv |
+| DREAM: DUAL STRUCTURED EXPLORATION WITH MIXUP FOR OPEN-SET GRAPH DOMAIN ADAPTION | Adaptation | DREAM | graph-level | 2024 | ICLR |
+| Rethinking Propagation for Unsupervised Graph Domain Adaptation | Adaptation | A2GNN | node-level | 2024 | AAAI |
 
-#### Related Papers
+#### Other Related Papers
 
-##### Domain Adaptation on Graphs before Deep Learning Era
+##### 1. Domain Adaptation on Graphs before Deep Learning Era
 
-| Title                                                        | Year | Pub  | Task       | Node                                        |
-| ------------------------------------------------------------ | ---- | ---- | ---------- | ------------------------------------------- |
-| Transfer learning across networks for collective classification | 2013 | ICDM | node-level | 矩阵三分解，跨域共享隐层因子, feature-based |
-| TrGraph: Cross Network Transfer Learning via Common Signature Graphs | 2015 | TKDE | node-level | graph-motif based common feature space      |
+| Title                                                        | Year | Pub  | Task       | Node                                                         |
+| ------------------------------------------------------------ | ---- | ---- | ---------- | ------------------------------------------------------------ |
+| Transfer learning across networks for collective classification | 2013 | ICDM | node-level | Matrix-tri-decomposition with sharing hidden factors across domains, feature-based |
+| TrGraph: Cross Network Transfer Learning via Common Signature Graphs | 2015 | TKDE | node-level | graph-motif based common feature space                       |

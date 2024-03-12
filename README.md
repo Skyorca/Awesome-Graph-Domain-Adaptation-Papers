@@ -1,6 +1,15 @@
 ### :sparkles:Awesome-Graph-Domain-Adaptation:sparkles:
 
-This repository contains the paper list of **Graph Domain Adaptation (GDA) **. The existing literature can be mainly categorized into three categories from conceptually different perspectives, i.e., *source*, *adaptation*, and *target*, based on their positions in the adaptation pipeline.  Besides, we also provide some dimensions to capture important information for each work, including task granularity, homogenous/heterogenous,  and code-link(link on the model name if accessible). For more details, please refer to our survey paper.
+This repository contains the paper list of **Graph Domain Adaptation (GDA) **. The existing literature can be mainly categorized into three categories from conceptually different perspectives, i.e., *source*, *adaptation*, and *target*, based on their positions in the adaptation pipeline.  Besides, we also provide some dimensions to capture important information for each work, including task granularity, homogenous/heterogenous,  and code-link(link on the model name if accessible). For more details, please refer to our survey paper：
+
+```latex
+@article{shi2024graph,
+  title={Graph Domain Adaptation: Challenges, Progress and Prospects},
+  author={Shi, Boshen and Wang, Yongqing and Guo, Fangda and Xu, Bingbing and Shen, Huawei and Cheng, Xueqi},
+  journal={arXiv preprint arXiv:2402.00904},
+  year={2024}
+}
+```
 
 :blush:We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us.
 

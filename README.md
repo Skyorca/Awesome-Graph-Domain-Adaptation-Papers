@@ -72,6 +72,9 @@ This repository contains the paper list of **Graph Domain Adaptation (GDA) **. T
 | Tackling Negative Transfer on Graphs | Adaptation | SP | node-level | 2024 | Arxiv |
 | DREAM: DUAL STRUCTURED EXPLORATION WITH MIXUP FOR OPEN-SET GRAPH DOMAIN ADAPTION | Adaptation | DREAM | graph-level | 2024 | ICLR |
 | Rethinking Propagation for Unsupervised Graph Domain Adaptation | Adaptation | A2GNN | node-level | 2024 | AAAI |
+| Multi-View Teacher with Curriculum Data Fusion for Robust Unsupervised Domain Adaptation | Adaptation | [MTDF](https://ieeexplore.ieee.org/abstract/document/10597690/) | graph-level | 2024 | ICDE |
+| GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation | Source-Free GDA | [GALA](https://github.com/luo-junyu/GALA) | graph-level | 2024 | TPAMI |
+| Rank and Align: Towards Effective Source-free Graph Domain Adaptation | Source-Free GDA | [RNA](https://www.ijcai.org/proceedings/2024/520) | graph-level | 2024 | IJCAI |
 
 #### Other Related Papers
 

@@ -4,6 +4,18 @@ This repository contains the paper list of **Graph Domain Adaptation (GDA) **. T
 
 :blush:We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us.
 
+update: our survey paper is online
+```
+@article{shi2025domain,
+  title={Domain Adaptation for Graph Representation Learning: Challenges, Progress, and Prospects},
+  author={Shi, Bo-Shen and Wang, Yong-Qing and Guo, Fang-Da and Xu, Bing-Bing and Shen, Hua-Wei and Cheng, Xue-Qi},
+  journal={Journal of Computer Science and Technology},
+  pages={1--18},
+  year={2025},
+  publisher={Springer}
+}
+```
+
 #### Main Paper List of Current GDA studies
 
 | Title             | Category | Model | Task                                            | Year | Pub                                                          |
